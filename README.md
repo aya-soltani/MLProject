@@ -12,4 +12,4 @@ Vous pouvez accéder directement au dossier de la base de données sur Google Dr
 
 Le rapport du projet est également disponible au format PDF :
 
-👉 [Consulter le rapport "ML.pdf"](https://drive.google.com/file/d/ML.pdf/view?usp=sharing)
+👉 [Consulter le rapport "ML.pdf"](https://drive.google.com/file/d/1zxC1ZemVhCJBMRqm-3g4MoQODe8Yh_6x/view?usp=drive_link)
